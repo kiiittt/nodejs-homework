@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-hw-1",
+  "version": "1.0.0",
+  "description": "https://github.com/kiiittt/nodejs-hw-1",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "yargs": "^17.7.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  }
+}
